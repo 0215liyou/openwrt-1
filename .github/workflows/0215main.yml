@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name:0215 CI
+name:0215 基于Lienol源码编译 CI
 
 # Controls when the workflow will run
 on:
